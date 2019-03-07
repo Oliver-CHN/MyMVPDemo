@@ -1,0 +1,13 @@
+特别鸣谢</br>
+-------
+[免费开放接口](https://www.jianshu.com/p/e6f072839282)</br>
+[LoadSir](https://github.com/KingJA/LoadSir)</br>
+[BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)</br>
+[butterknife](https://github.com/JakeWharton/butterknife)</br>
+[retrofit](https://github.com/search?q=retrofit)</br>
+[converter-gson](https://mvnrepository.com/artifact/com.squareup.retrofit2/converter-gson)</br>
+[rxjava](https://github.com/ReactiveX/RxJava)</br>
+[adapter-rxjava2](https://mvnrepository.com/artifact/com.squareup.retrofit2/adapter-rxjava2)</br>
+[rxandroid](https://github.com/ReactiveX/RxAndroid)</br>
+[glide](https://github.com/bumptech/glide)</br>
+未使用：[progress-activity](https://github.com/vlonjatg/progress-activity)
