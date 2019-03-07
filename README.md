@@ -10,4 +10,4 @@
 [adapter-rxjava2](https://mvnrepository.com/artifact/com.squareup.retrofit2/adapter-rxjava2)</br>
 [rxandroid](https://github.com/ReactiveX/RxAndroid)</br>
 [glide](https://github.com/bumptech/glide)</br>
-[progress-activity](未使用)(https://github.com/vlonjatg/progress-activity)
+未使用：[progress-activity](https://github.com/vlonjatg/progress-activity)
