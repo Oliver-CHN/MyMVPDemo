@@ -14,7 +14,9 @@ public class NovelPresenter extends BasePresenter<DataView<List<NovelBean>>> {
      */
     public void getData() {
         //显示正在加载进度条
-        mView.showLoading();
+        if (isViewAttached()) {
+            mView.showLoading();
+        }
         // 调用Model请求数据
         NovelModel.novelData(new BaseCallback<List<NovelBean>>() {
             @Override
